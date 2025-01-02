@@ -1,4 +1,4 @@
 - Hi, I'm dronesflier!
-- I like coding with Python and Javascript, and I've got some experience with GNU/Linux
-- I've got a few Projects that I'd like to release, but don't have too much polish yet.
-- TODO: cleanup unused / unmaintained repositories
+- I have "experience" with python and a little JS, and allegedly PHP
+- this is a very erratic account and some things may appear/disappear
+- TODO: go to sleep
